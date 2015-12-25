@@ -1,6 +1,6 @@
 name: New Algorithmist
 favicon: null
-layout_spectrum: 0.8717081651557237
+layout_spectrum: 0
 typography_spectrum: 0.8842122829519212
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.2488376412075013
-  lightness: 0.027100928593426943
-  saturation: 0.26055400911718607
-  rhythmicContrast: 0.9248411655426025
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
