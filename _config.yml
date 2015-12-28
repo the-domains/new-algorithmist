@@ -1,7 +1,7 @@
 name: New Algorithmist
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.8842122829519212
+layout_spectrum: 0.74235
+typography_spectrum: 0.5088
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#ffffff'
+    - '#000000'
+    - '#b6b6b6'
+    - '#dadada'
+    - '#676767'
   brandStrength: 0.5
   lightness: 1
-  saturation: 1
+  saturation: 0
   rhythmicContrast: 0.5
 purpose: []
